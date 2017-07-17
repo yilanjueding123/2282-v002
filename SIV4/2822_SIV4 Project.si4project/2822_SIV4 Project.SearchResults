@@ -1,0 +1,5 @@
+---- ap_startup_init Matches (4 in 4 files) ----
+ap_startup.c (F:\work\item\2282\program\application\task_state_handling\state_startup\src) line 27 : void ap_startup_init(void)
+ap_startup.h (F:\work\item\2282\program\application\task_state_handling\state_startup\inc) line 3 : extern void ap_startup_init(void);
+state_startup_init in state_startup.c (F:\work\item\2282\program\application\task_state_handling\state_startup\src) :     ap_startup_init();
+state_startup.h (F:\work\item\2282\program\application\task_state_handling\state_startup\inc) line 5 : extern void ap_startup_init(void);
