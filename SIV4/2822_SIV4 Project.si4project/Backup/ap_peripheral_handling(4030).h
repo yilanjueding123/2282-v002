@@ -5,7 +5,7 @@
 #define PERI_TIME_INTERVAL_USBD_DETECT	16		//128 = 1s
 #define PERI_TIME_INTERVAL_LED_FLASH	1		//128 = 1s
 #define PERI_TIME_INTERVAL_KEY_DETECT	2//1		//128 = 1s
-#define Long_Single_width               108//64//32
+#define Long_Single_width               64//32
 #define Short_Single_width              6
 #define USB_DETECT_CNT					5
 

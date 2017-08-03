@@ -1,5 +1,5 @@
----- ap_startup_init Matches (4 in 4 files) ----
-ap_startup.c (F:\work\item\2282\program\application\task_state_handling\state_startup\src) line 27 : void ap_startup_init(void)
-ap_startup.h (F:\work\item\2282\program\application\task_state_handling\state_startup\inc) line 3 : extern void ap_startup_init(void);
-state_startup_init in state_startup.c (F:\work\item\2282\program\application\task_state_handling\state_startup\src) :     ap_startup_init();
-state_startup.h (F:\work\item\2282\program\application\task_state_handling\state_startup\inc) line 5 : extern void ap_startup_init(void);
+---- Long_Single_width Matches (4 in 2 files) ----
+ap_peripheral_key_judge in ap_peripheral_handling.c (F:\work\item\2282\program\application\task_peripheral_handling\src) :                     if (key_map[i].key_cnt >= Long_Single_width)
+ap_peripheral_video_key_exe in ap_peripheral_handling.c (F:\work\item\2282\program\application\task_peripheral_handling\src) :             if(*tick_cnt_ptr >= Long_Single_width)
+ap_peripheral_capture_key_exe in ap_peripheral_handling.c (F:\work\item\2282\program\application\task_peripheral_handling\src) :         if(*tick_cnt_ptr >= Long_Single_width)
+ap_peripheral_handling.h (F:\work\item\2282\program\application\task_peripheral_handling\inc) line 8 : #define Long_Single_width               108//64//32
